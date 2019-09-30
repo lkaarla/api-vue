@@ -1,0 +1,1684 @@
+Started GET "/js/app.4d4cdf66.js.map" for ::1 at 2019-09-25 14:34:44 -0300
+Started GET "/js/chunk-vendors.49e275e1.js.map" for ::1 at 2019-09-25 14:34:44 -0300
+Started GET "/js/chunk-48334201.8c9143b6.js.map" for ::1 at 2019-09-25 14:34:44 -0300
+  
+  
+  
+ActionController::RoutingError (No route matches [GET] "/js/app.4d4cdf66.js.map"):
+ActionController::RoutingError (No route matches [GET] "/js/chunk-vendors.49e275e1.js.map"):
+ActionController::RoutingError (No route matches [GET] "/js/chunk-48334201.8c9143b6.js.map"):
+  
+  
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+webpacker (4.0.7) lib/webpacker/dev_server_proxy.rb:29:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+webpacker (4.0.7) lib/webpacker/dev_server_proxy.rb:29:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+webpacker (4.0.7) lib/webpacker/dev_server_proxy.rb:29:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/js/chunk-vendors.49e275e1.js.map" for ::1 at 2019-09-25 14:35:03 -0300
+Started GET "/js/app.4d4cdf66.js.map" for ::1 at 2019-09-25 14:35:03 -0300
+  
+  
+ActionController::RoutingError (No route matches [GET] "/js/chunk-vendors.49e275e1.js.map"):
+ActionController::RoutingError (No route matches [GET] "/js/app.4d4cdf66.js.map"):
+  
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+webpacker (4.0.7) lib/webpacker/dev_server_proxy.rb:29:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+webpacker (4.0.7) lib/webpacker/dev_server_proxy.rb:29:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/js/chunk-48334201.8c9143b6.js.map" for ::1 at 2019-09-25 14:35:44 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/js/chunk-48334201.8c9143b6.js.map"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+webpacker (4.0.7) lib/webpacker/dev_server_proxy.rb:29:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started GET "/cadastro" for ::1 at 2019-09-25 14:38:31 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/cadastro"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+webpacker (4.0.7) lib/webpacker/dev_server_proxy.rb:29:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started POST "/cadastro" for ::1 at 2019-09-26 13:47:15 -0300
+  
+ActionController::RoutingError (No route matches [POST] "/cadastro"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+webpacker (4.0.7) lib/webpacker/dev_server_proxy.rb:29:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started POST "/cadastrar" for ::1 at 2019-09-26 13:50:10 -0300
+  
+ActionController::RoutingError (No route matches [POST] "/cadastrar"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+webpacker (4.0.7) lib/webpacker/dev_server_proxy.rb:29:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-26 13:52:02 -0300
+  
+ActionController::RoutingError (uninitialized constant ApplicationController):
+  
+app/controllers/usuario_controller.rb:1:in `<top (required)>'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-26 13:55:17 -0300
+  
+ActionController::RoutingError (uninitialized constant ApplicationController):
+  
+app/controllers/usuario_controller.rb:1:in `<top (required)>'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-26 13:59:08 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sdsa", "email"=>"dsad", "senha"=>"sadsa", "usuario"=>{"nome"=>"sdsa", "email"=>"dsad", "senha"=>"sadsa"}}
+Completed 500 Internal Server Error in 0ms (ActiveRecord: 10.0ms)
+
+
+  
+ArgumentError (wrong number of arguments (given 0, expected 1)):
+  
+app/controllers/usuario_controller.rb:3:in `cadastrar'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-26 14:00:56 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sdsa", "email"=>"dsad", "senha"=>"sadsa", "usuario"=>{"nome"=>"sdsa", "email"=>"dsad", "senha"=>"sadsa"}}
+Completed 500 Internal Server Error in 136ms (ActiveRecord: 5.0ms)
+
+
+  
+NameError (undefined local variable or method `dados' for #<UsuarioController:0x3c0e208>):
+  
+app/controllers/usuario_controller.rb:8:in `cadastrar'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-26 14:01:49 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sdsa", "email"=>"dsad", "senha"=>"sadsa", "usuario"=>{"nome"=>"sdsa", "email"=>"dsad", "senha"=>"sadsa"}}
+Completed 500 Internal Server Error in 16ms (ActiveRecord: 0.0ms)
+
+
+  
+NoMethodError (undefined method `cadastrar' for Usuario(Table doesn't exist):Class):
+  
+app/controllers/usuario_controller.rb:9:in `cadastrar'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-26 14:02:23 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sdsa", "email"=>"dsad", "senha"=>"sadsa", "usuario"=>{"nome"=>"sdsa", "email"=>"dsad", "senha"=>"sadsa"}}
+Completed 500 Internal Server Error in 12ms (ActiveRecord: 0.0ms)
+
+
+  
+NoMethodError (undefined method `cadastrar' for Usuario(Table doesn't exist):Class):
+  
+app/controllers/usuario_controller.rb:9:in `cadastrar'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-26 14:03:46 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sdsa", "email"=>"dsad", "senha"=>"sadsa", "usuario"=>{"nome"=>"sdsa", "email"=>"dsad", "senha"=>"sadsa"}}
+Completed 500 Internal Server Error in 10ms (ActiveRecord: 0.0ms)
+
+
+  
+NoMethodError (undefined method `cadastrar' for Usuario(Table doesn't exist):Class):
+  
+app/controllers/usuario_controller.rb:9:in `cadastrar'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-26 14:04:12 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sdsa", "email"=>"dsad", "senha"=>"sadsa", "usuario"=>{"nome"=>"sdsa", "email"=>"dsad", "senha"=>"sadsa"}}
+Completed 500 Internal Server Error in 12ms (ActiveRecord: 1.0ms)
+
+
+  
+NoMethodError (undefined method `cadastrar' for Usuario(Table doesn't exist):Class):
+  
+app/controllers/usuario_controller.rb:9:in `cadastrar'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-26 14:05:06 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sdsa", "email"=>"dsad", "senha"=>"sadsa", "usuario"=>{"nome"=>"sdsa", "email"=>"dsad", "senha"=>"sadsa"}}
+Completed 500 Internal Server Error in 13ms (ActiveRecord: 1.0ms)
+
+
+  
+NoMethodError (undefined method `salvar' for Usuario(Table doesn't exist):Class):
+  
+app/controllers/usuario_controller.rb:9:in `cadastrar'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-26 14:05:47 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sdsa", "email"=>"dsad", "senha"=>"sadsa", "usuario"=>{"nome"=>"sdsa", "email"=>"dsad", "senha"=>"sadsa"}}
+Completed 500 Internal Server Error in 7ms (ActiveRecord: 5.0ms)
+
+
+  
+NoMethodError (undefined method `salvar' for Usuario(Table doesn't exist):Class):
+  
+app/controllers/usuario_controller.rb:9:in `cadastrar'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-26 16:11:24 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sda", "email"=>"sdsa", "senha"=>"dasd", "usuario"=>{"nome"=>"sda", "email"=>"sdsa", "senha"=>"dasd"}}
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 10.0ms)
+
+
+  
+NoMethodError (undefined method `salvar' for Usuario(Table doesn't exist):Class):
+  
+app/controllers/usuario_controller.rb:9:in `cadastrar'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-26 16:14:16 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sdsa", "email"=>"dsad", "senha"=>"sadsa", "usuario"=>{"nome"=>"sdsa", "email"=>"dsad", "senha"=>"sadsa"}}
+Completed 500 Internal Server Error in 8ms (ActiveRecord: 6.0ms)
+
+
+  
+NoMethodError (undefined method `salvar' for Usuario(Table doesn't exist):Class):
+  
+app/controllers/usuario_controller.rb:9:in `cadastrar'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-26 16:20:24 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sdsa", "email"=>"dsad", "senha"=>"sadsa", "usuario"=>{"nome"=>"sdsa", "email"=>"dsad", "senha"=>"sadsa"}}
+Completed 500 Internal Server Error in 14ms (ActiveRecord: 0.0ms)
+
+
+  
+NoMethodError (undefined method `salvar' for Usuario(Table doesn't exist):Class):
+  
+app/controllers/usuario_controller.rb:9:in `cadastrar'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-26 16:30:03 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sdsa", "email"=>"dsa", "senha"=>"dsds", "usuario"=>{"nome"=>"sdsa", "email"=>"dsa", "senha"=>"dsds"}}
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 10.0ms)
+
+
+  
+NoMethodError (undefined method `salvar' for Usuario(id: integer, nome: string, email: string, senha: string):Class):
+  
+app/controllers/usuario_controller.rb:9:in `cadastrar'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-26 16:31:21 -0300
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-26 16:31:31 -0300
+  
+  
+LoadError (Unable to autoload constant Usuario, expected C:/Users/ligia.karla.c.cunha/Desktop/projeto/api/app/models/usuario.rb to define it):
+LoadError (Unable to autoload constant Usuario, expected C:/Users/ligia.karla.c.cunha/Desktop/projeto/api/app/models/usuario.rb to define it):
+  
+  
+activesupport (5.1.7) lib/active_support/dependencies.rb:512:in `load_missing_constant'
+activesupport (5.1.7) lib/active_support/dependencies.rb:202:in `const_missing'
+activesupport (5.1.7) lib/active_support/inflector/methods.rb:269:in `const_get'
+activesupport (5.1.7) lib/active_support/inflector/methods.rb:269:in `block in constantize'
+activesupport (5.1.7) lib/active_support/inflector/methods.rb:267:in `each'
+activesupport (5.1.7) lib/active_support/inflector/methods.rb:267:in `inject'
+activesupport (5.1.7) lib/active_support/inflector/methods.rb:267:in `constantize'
+activesupport (5.1.7) lib/active_support/inflector/methods.rb:312:in `safe_constantize'
+activesupport (5.1.7) lib/active_support/core_ext/string/inflections.rb:77:in `safe_constantize'
+actionpack (5.1.7) lib/action_controller/metal/params_wrapper.rb:147:in `_default_wrap_model'
+actionpack (5.1.7) lib/action_controller/metal/params_wrapper.rb:94:in `block in model'
+C:/RailsInstaller/Ruby2.3.3/lib/ruby/2.3.0/mutex_m.rb:74:in `synchronize'
+C:/RailsInstaller/Ruby2.3.3/lib/ruby/2.3.0/mutex_m.rb:74:in `mu_synchronize'
+actionpack (5.1.7) lib/action_controller/metal/params_wrapper.rb:94:in `model'
+actionpack (5.1.7) lib/action_controller/metal/params_wrapper.rb:121:in `name'
+actionpack (5.1.7) lib/action_controller/metal/params_wrapper.rb:259:in `_wrapper_key'
+actionpack (5.1.7) lib/action_controller/metal/params_wrapper.rb:286:in `_wrapper_enabled?'
+actionpack (5.1.7) lib/action_controller/metal/params_wrapper.rb:235:in `process_action'
+activerecord (5.1.7) lib/active_record/railties/controller_runtime.rb:22:in `process_action'
+actionpack (5.1.7) lib/abstract_controller/base.rb:124:in `process'
+actionview (5.1.7) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.7) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.7) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.7) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.7) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.7) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.7) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.7) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.7) lib/action_dispatch/routing/route_set.rb:844:in `call'
+rack (2.0.7) lib/rack/etag.rb:25:in `call'
+rack (2.0.7) lib/rack/conditional_get.rb:38:in `call'
+rack (2.0.7) lib/rack/head.rb:12:in `call'
+rack (2.0.7) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.7) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.7) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.7) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.7) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+webpacker (4.0.7) lib/webpacker/dev_server_proxy.rb:29:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+activesupport (5.1.7) lib/active_support/dependencies.rb:512:in `load_missing_constant'
+activesupport (5.1.7) lib/active_support/dependencies.rb:202:in `const_missing'
+activesupport (5.1.7) lib/active_support/inflector/methods.rb:269:in `const_get'
+activesupport (5.1.7) lib/active_support/inflector/methods.rb:269:in `block in constantize'
+activesupport (5.1.7) lib/active_support/inflector/methods.rb:267:in `each'
+activesupport (5.1.7) lib/active_support/inflector/methods.rb:267:in `inject'
+activesupport (5.1.7) lib/active_support/inflector/methods.rb:267:in `constantize'
+activesupport (5.1.7) lib/active_support/inflector/methods.rb:312:in `safe_constantize'
+activesupport (5.1.7) lib/active_support/core_ext/string/inflections.rb:77:in `safe_constantize'
+actionpack (5.1.7) lib/action_controller/metal/params_wrapper.rb:147:in `_default_wrap_model'
+actionpack (5.1.7) lib/action_controller/metal/params_wrapper.rb:94:in `block in model'
+C:/RailsInstaller/Ruby2.3.3/lib/ruby/2.3.0/mutex_m.rb:74:in `synchronize'
+C:/RailsInstaller/Ruby2.3.3/lib/ruby/2.3.0/mutex_m.rb:74:in `mu_synchronize'
+actionpack (5.1.7) lib/action_controller/metal/params_wrapper.rb:94:in `model'
+actionpack (5.1.7) lib/action_controller/metal/params_wrapper.rb:121:in `name'
+actionpack (5.1.7) lib/action_controller/metal/params_wrapper.rb:259:in `_wrapper_key'
+actionpack (5.1.7) lib/action_controller/metal/params_wrapper.rb:286:in `_wrapper_enabled?'
+actionpack (5.1.7) lib/action_controller/metal/params_wrapper.rb:235:in `process_action'
+activerecord (5.1.7) lib/active_record/railties/controller_runtime.rb:22:in `process_action'
+actionpack (5.1.7) lib/abstract_controller/base.rb:124:in `process'
+actionview (5.1.7) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.7) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.7) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.7) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.7) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.7) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.7) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.7) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.7) lib/action_dispatch/routing/route_set.rb:844:in `call'
+rack (2.0.7) lib/rack/etag.rb:25:in `call'
+rack (2.0.7) lib/rack/conditional_get.rb:38:in `call'
+rack (2.0.7) lib/rack/head.rb:12:in `call'
+rack (2.0.7) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.7) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.7) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.7) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.7) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+webpacker (4.0.7) lib/webpacker/dev_server_proxy.rb:29:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-26 16:32:01 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sdsa", "email"=>"dsa", "senha"=>"dsds", "usuario"=>{"nome"=>"sdsa", "email"=>"dsa", "senha"=>"dsds"}}
+Completed 500 Internal Server Error in 13ms (ActiveRecord: 1.0ms)
+
+
+  
+NoMethodError (undefined method `salvar' for Usuario(id: integer, nome: string, email: string, senha: string):Class):
+  
+app/controllers/usuario_controller.rb:9:in `cadastrar'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-26 16:32:15 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sdsa", "email"=>"dsa", "senha"=>"dsds", "usuario"=>{"nome"=>"sdsa", "email"=>"dsa", "senha"=>"dsds"}}
+Completed 500 Internal Server Error in 11ms (ActiveRecord: 1.0ms)
+
+
+  
+NoMethodError (undefined method `salvar' for Usuario(id: integer, nome: string, email: string, senha: string):Class):
+  
+app/controllers/usuario_controller.rb:9:in `cadastrar'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-26 16:32:25 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sdsa", "email"=>"dsa", "senha"=>"dsds", "usuario"=>{"nome"=>"sdsa", "email"=>"dsa", "senha"=>"dsds"}}
+Completed 500 Internal Server Error in 8ms (ActiveRecord: 1.0ms)
+
+
+  
+NoMethodError (undefined method `salvar' for Usuario(id: integer, nome: string, email: string, senha: string):Class):
+  
+app/controllers/usuario_controller.rb:9:in `cadastrar'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-26 16:33:00 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sdsa", "email"=>"dsa", "senha"=>"dsds", "usuario"=>{"nome"=>"sdsa", "email"=>"dsa", "senha"=>"dsds"}}
+Completed 500 Internal Server Error in 8ms (ActiveRecord: 1.0ms)
+
+
+  
+NoMethodError (undefined method `salvar' for Usuario(id: integer, nome: string, email: string, senha: string):Class):
+  
+app/controllers/usuario_controller.rb:9:in `cadastrar'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-26 16:33:14 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sdsa", "email"=>"dsa", "senha"=>"dsds", "usuario"=>{"nome"=>"sdsa", "email"=>"dsa", "senha"=>"dsds"}}
+Completed 500 Internal Server Error in 130ms (ActiveRecord: 1.0ms)
+
+
+  
+NameError (undefined local variable or method `id' for #<UsuarioController:0x9ab1740>):
+  
+app/controllers/usuario_controller.rb:9:in `cadastrar'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-26 16:33:36 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sdsa", "email"=>"dsa", "senha"=>"dsds", "usuario"=>{"nome"=>"sdsa", "email"=>"dsa", "senha"=>"dsds"}}
+Completed 500 Internal Server Error in 11ms (ActiveRecord: 1.0ms)
+
+
+  
+NoMethodError (undefined method `salvar' for Usuario(id: integer, nome: string, email: string, senha: string):Class):
+  
+app/controllers/usuario_controller.rb:9:in `cadastrar'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-26 16:34:50 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sdsa", "email"=>"dsa", "senha"=>"dsds", "usuario"=>{"nome"=>"sdsa", "email"=>"dsa", "senha"=>"dsds"}}
+Completed 500 Internal Server Error in 12ms (ActiveRecord: 1.0ms)
+
+
+  
+NoMethodError (undefined method `salvar' for Usuario(id: integer, nome: string, email: string, senha: string):Class):
+  
+app/controllers/usuario_controller.rb:9:in `cadastrar'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-26 16:35:53 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sdsa", "email"=>"dsa", "senha"=>"dsds", "usuario"=>{"nome"=>"sdsa", "email"=>"dsa", "senha"=>"dsds"}}
+Completed 500 Internal Server Error in 65ms (ActiveRecord: 1.0ms)
+
+
+  
+NoMethodError (undefined method `salvar' for #<UsuarioController:0x585aa58>):
+  
+app/controllers/usuario_controller.rb:9:in `cadastrar'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-26 16:36:28 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sdsa", "email"=>"dsa", "senha"=>"dsds", "usuario"=>{"nome"=>"sdsa", "email"=>"dsa", "senha"=>"dsds"}}
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (2.0ms)[0m  [1m[32mINSERT INTO "tb_usuarios" ("nome", "email", "senha") VALUES (?, ?, ?)[0m  [["nome", "sdsa"], ["email", "dsa"], ["senha", "dsds"]]
+  [1m[35m (7.0ms)[0m  [1m[36mcommit transaction[0m
+No template found for UsuarioController#cadastrar, rendering head :no_content
+Completed 204 No Content in 1661ms (ActiveRecord: 10.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-26 19:41:07 -0300
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-26 19:41:07 -0300
+Started GET "/js/app.44dbfad1.js.map" for ::1 at 2019-09-27 09:22:57 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/js/app.44dbfad1.js.map"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+webpacker (4.0.7) lib/webpacker/dev_server_proxy.rb:29:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 09:23:16 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sdsd", "email"=>"asdasd", "senha"=>"asdsd", "usuario"=>{"nome"=>"sdsd", "email"=>"asdasd", "senha"=>"asdsd"}}
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE "tb_usuarios"."id" IN (NULL, NULL)[0m
+Completed 404 Not Found in 43ms (ActiveRecord: 11.0ms)
+
+
+  
+ActiveRecord::RecordNotFound (Couldn't find all Usuarios with 'id': (all, {:conditions=>"email = \#{email}"}) (found 0 results, but was looking for 2)):
+  
+app/controllers/usuario_controller.rb:9:in `cadastrar'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 09:23:43 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"fdgdf", "email"=>"gdfgdf", "senha"=>"gfdg", "usuario"=>{"nome"=>"fdgdf", "email"=>"gdfgdf", "senha"=>"gfdg"}}
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE "tb_usuarios"."id" IN (NULL, NULL)[0m
+Completed 404 Not Found in 7ms (ActiveRecord: 0.0ms)
+
+
+  
+ActiveRecord::RecordNotFound (Couldn't find all Usuarios with 'id': (all, {:conditions=>"email = \#{email}"}) (found 0 results, but was looking for 2)):
+  
+app/controllers/usuario_controller.rb:9:in `cadastrar'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 09:24:32 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"fdgdf", "email"=>"gdfgdf", "senha"=>"gfdg", "usuario"=>{"nome"=>"fdgdf", "email"=>"gdfgdf", "senha"=>"gfdg"}}
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE "tb_usuarios"."id" IN (NULL, NULL)[0m
+Completed 404 Not Found in 3ms (ActiveRecord: 2.0ms)
+
+
+  
+ActiveRecord::RecordNotFound (Couldn't find all Usuarios with 'id': (all, {:conditions=>"email = \#{email}"}) (found 0 results, but was looking for 2)):
+  
+app/controllers/usuario_controller.rb:9:in `cadastrar'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 09:25:12 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"fdgdf", "email"=>"gdfgdf", "senha"=>"gfdg", "usuario"=>{"nome"=>"fdgdf", "email"=>"gdfgdf", "senha"=>"gfdg"}}
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE "tb_usuarios"."id" IN (NULL, NULL)[0m
+Completed 404 Not Found in 3ms (ActiveRecord: 0.0ms)
+
+
+  
+ActiveRecord::RecordNotFound (Couldn't find all Usuarios with 'id': (all, {:conditions=>"email = \#{email}"}) (found 0 results, but was looking for 2)):
+  
+app/controllers/usuario_controller.rb:9:in `cadastrar'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 09:25:41 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"fdgdf", "email"=>"gdfgdf", "senha"=>"gfdg", "usuario"=>{"nome"=>"fdgdf", "email"=>"gdfgdf", "senha"=>"gfdg"}}
+  [1m[36mUsuario Load (1.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE "tb_usuarios"."id" IN (NULL, NULL)[0m
+Completed 404 Not Found in 7ms (ActiveRecord: 4.0ms)
+
+
+  
+ActiveRecord::RecordNotFound (Couldn't find all Usuarios with 'id': (all, {:conditions=>"email = \#{email}"}) (found 0 results, but was looking for 2)):
+  
+app/controllers/usuario_controller.rb:10:in `cadastrar'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 09:30:37 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"fdgdf", "email"=>"gdfgdf", "senha"=>"gfdg", "usuario"=>{"nome"=>"fdgdf", "email"=>"gdfgdf", "senha"=>"gfdg"}}
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE "tb_usuarios"."id" IN (NULL, NULL)[0m
+Completed 404 Not Found in 4ms (ActiveRecord: 2.0ms)
+
+
+  
+ActiveRecord::RecordNotFound (Couldn't find all Usuarios with 'id': (all, {:conditions=>"email = GDFGDF"}) (found 0 results, but was looking for 2)):
+  
+app/controllers/usuario_controller.rb:10:in `cadastrar'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 09:31:15 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sdasdas", "email"=>"dasdas", "senha"=>"dasda", "usuario"=>{"nome"=>"sdasdas", "email"=>"dasdas", "senha"=>"dasda"}}
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE "tb_usuarios"."id" IN (NULL, NULL)[0m
+Completed 404 Not Found in 36ms (ActiveRecord: 6.0ms)
+
+
+  
+ActiveRecord::RecordNotFound (Couldn't find all Usuarios with 'id': (all, {:conditions=>"email = DASDAS"}) (found 0 results, but was looking for 2)):
+  
+app/controllers/usuario_controller.rb:10:in `cadastrar'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 09:31:45 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sdasdas", "email"=>"dasdas", "senha"=>"dasda", "usuario"=>{"nome"=>"sdasdas", "email"=>"dasdas", "senha"=>"dasda"}}
+  [1m[36mUsuario Load (1.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE "tb_usuarios"."id" IN (NULL, NULL)[0m
+Completed 404 Not Found in 6ms (ActiveRecord: 1.0ms)
+
+
+  
+ActiveRecord::RecordNotFound (Couldn't find all Usuarios with 'id': (all, {:conditions=>"email = DASDAS"}) (found 0 results, but was looking for 2)):
+  
+app/controllers/usuario_controller.rb:10:in `cadastrar'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 09:31:58 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sdasdas", "email"=>"dasdas", "senha"=>"dasda", "usuario"=>{"nome"=>"sdasdas", "email"=>"dasdas", "senha"=>"dasda"}}
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE "tb_usuarios"."id" IN (NULL, NULL)[0m
+Completed 404 Not Found in 574ms (ActiveRecord: 0.0ms)
+
+
+  
+ActiveRecord::RecordNotFound (Couldn't find all Usuarios with 'id': (all, {:conditions=>"email = DASDAS"}) (found 0 results, but was looking for 2)):
+  
+app/controllers/usuario_controller.rb:10:in `cadastrar'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 09:32:15 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sdasdas", "email"=>"dasdas", "senha"=>"dasda", "usuario"=>{"nome"=>"sdasdas", "email"=>"dasdas", "senha"=>"dasda"}}
+  [1m[36mUsuario Load (1.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE "tb_usuarios"."id" IN (NULL, NULL)[0m
+Completed 404 Not Found in 5ms (ActiveRecord: 2.0ms)
+
+
+  
+ActiveRecord::RecordNotFound (Couldn't find all Usuarios with 'id': (first, {:conditions=>"email = DASDAS"}) (found 0 results, but was looking for 2)):
+  
+app/controllers/usuario_controller.rb:10:in `cadastrar'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 09:32:40 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sdasdas", "email"=>"dasdas", "senha"=>"dasda", "usuario"=>{"nome"=>"sdasdas", "email"=>"dasdas", "senha"=>"dasda"}}
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE "tb_usuarios"."id" IN (NULL, NULL)[0m
+Completed 404 Not Found in 7ms (ActiveRecord: 2.0ms)
+
+
+  
+ActiveRecord::RecordNotFound (Couldn't find all Usuarios with 'id': (first, {:conditions=>"email = DASDAS", :select=>"id"}) (found 0 results, but was looking for 2)):
+  
+app/controllers/usuario_controller.rb:10:in `cadastrar'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 09:33:41 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sdasdas", "email"=>"dasdas", "senha"=>"dasda", "usuario"=>{"nome"=>"sdasdas", "email"=>"dasdas", "senha"=>"dasda"}}
+Completed 500 Internal Server Error in 139ms (ActiveRecord: 2.0ms)
+
+
+  
+NameError (undefined local variable or method `current_user' for #<UsuarioController:0x6e04fa8>):
+  
+app/controllers/usuario_controller.rb:10:in `cadastrar'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 09:33:59 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sdasdas", "email"=>"dasdas", "senha"=>"dasda", "usuario"=>{"nome"=>"sdasdas", "email"=>"dasdas", "senha"=>"dasda"}}
+  [1m[36mUsuario Load (1.0ms)[0m  [1m[34mSELECT  "tb_usuarios".* FROM "tb_usuarios" WHERE "tb_usuarios"."id" = ? LIMIT ?[0m  [["id", nil], ["LIMIT", 1]]
+Completed 404 Not Found in 13ms (ActiveRecord: 2.0ms)
+
+
+  
+ActiveRecord::RecordNotFound (Couldn't find Usuario with 'id'={:conditions=>"email = DASDAS"}):
+  
+app/controllers/usuario_controller.rb:10:in `cadastrar'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 09:36:56 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sdasdas", "email"=>"dasdas", "senha"=>"dasda", "usuario"=>{"nome"=>"sdasdas", "email"=>"dasdas", "senha"=>"dasda"}}
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT  "tb_usuarios".* FROM "tb_usuarios" WHERE "tb_usuarios"."id" = ? LIMIT ?[0m  [["id", nil], ["LIMIT", 1]]
+Completed 404 Not Found in 4ms (ActiveRecord: 1.0ms)
+
+
+  
+ActiveRecord::RecordNotFound (Couldn't find Usuario with 'id'={:conditions=>"email = 'DASDAS'"}):
+  
+app/controllers/usuario_controller.rb:10:in `cadastrar'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 09:38:05 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sdasdas", "email"=>"dasdas", "senha"=>"dasda", "usuario"=>{"nome"=>"sdasdas", "email"=>"dasdas", "senha"=>"dasda"}}
+No template found for UsuarioController#cadastrar, rendering head :no_content
+Completed 204 No Content in 1657ms (ActiveRecord: 1.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 09:38:21 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sdasdas", "email"=>"dasdas", "senha"=>"dasda", "usuario"=>{"nome"=>"sdasdas", "email"=>"dasdas", "senha"=>"dasda"}}
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT  "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'DASDAS') ORDER BY "tb_usuarios"."id" ASC LIMIT ?[0m  [["LIMIT", 1]]
+No template found for UsuarioController#cadastrar, rendering head :no_content
+Completed 204 No Content in 1731ms (ActiveRecord: 3.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 09:43:02 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sdasdas", "email"=>"dasdas", "senha"=>"dasda", "usuario"=>{"nome"=>"sdasdas", "email"=>"dasdas", "senha"=>"dasda"}}
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT  "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'DASDAS') ORDER BY "tb_usuarios"."id" ASC LIMIT ?[0m  [["LIMIT", 1]]
+No template found for UsuarioController#cadastrar, rendering head :no_content
+Completed 204 No Content in 1698ms (ActiveRecord: 1.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 09:43:20 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sdasdas", "email"=>"dasdas", "senha"=>"dasda", "usuario"=>{"nome"=>"sdasdas", "email"=>"dasdas", "senha"=>"dasda"}}
+No template found for UsuarioController#cadastrar, rendering head :no_content
+Completed 204 No Content in 1656ms (ActiveRecord: 2.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 09:48:27 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"ligia", "email"=>"ligia", "senha"=>"liia", "usuario"=>{"nome"=>"ligia", "email"=>"ligia", "senha"=>"liia"}}
+No template found for UsuarioController#cadastrar, rendering head :no_content
+Completed 204 No Content in 1881ms (ActiveRecord: 2.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 09:48:40 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"ligia", "email"=>"ligia", "senha"=>"liia", "usuario"=>{"nome"=>"ligia", "email"=>"ligia", "senha"=>"liia"}}
+No template found for UsuarioController#cadastrar, rendering head :no_content
+Completed 204 No Content in 1752ms (ActiveRecord: 0.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 09:51:51 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"ligia", "email"=>"ligia", "senha"=>"l", "usuario"=>{"nome"=>"ligia", "email"=>"ligia", "senha"=>"l"}}
+No template found for UsuarioController#cadastrar, rendering head :no_content
+Completed 204 No Content in 1731ms (ActiveRecord: 4.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 09:53:10 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"ligia", "email"=>"ligia", "senha"=>"l", "usuario"=>{"nome"=>"ligia", "email"=>"ligia", "senha"=>"l"}}
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (3.1ms)[0m  [1m[32mINSERT INTO "tb_usuarios" ("nome", "email", "senha") VALUES (?, ?, ?)[0m  [["nome", "ligia"], ["email", "ligia"], ["senha", "l"]]
+  [1m[35m (5.3ms)[0m  [1m[36mcommit transaction[0m
+No template found for UsuarioController#cadastrar, rendering head :no_content
+Completed 204 No Content in 1737ms (ActiveRecord: 8.3ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 09:54:51 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"ligia", "email"=>"ligia", "senha"=>"l", "usuario"=>{"nome"=>"ligia", "email"=>"ligia", "senha"=>"l"}}
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT  "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'LIGIA') ORDER BY "tb_usuarios"."id" ASC LIMIT ?[0m  [["LIMIT", 1]]
+No template found for UsuarioController#cadastrar, rendering head :no_content
+Completed 204 No Content in 1753ms (ActiveRecord: 1.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 09:54:56 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"ligia", "email"=>"ligiaasda", "senha"=>"lsa", "usuario"=>{"nome"=>"ligia", "email"=>"ligiaasda", "senha"=>"lsa"}}
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT  "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'LIGIAASDA') ORDER BY "tb_usuarios"."id" ASC LIMIT ?[0m  [["LIMIT", 1]]
+No template found for UsuarioController#cadastrar, rendering head :no_content
+Completed 204 No Content in 1763ms (ActiveRecord: 0.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 09:55:36 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"ligia", "email"=>"ligiaasda", "senha"=>"lsa", "usuario"=>{"nome"=>"ligia", "email"=>"ligiaasda", "senha"=>"lsa"}}
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT  "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'LIGIAASDA') ORDER BY "tb_usuarios"."id" ASC LIMIT ?[0m  [["LIMIT", 1]]
+No template found for UsuarioController#cadastrar, rendering head :no_content
+Completed 204 No Content in 1935ms (ActiveRecord: 1.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 09:56:14 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"ligia", "email"=>"ligiaasda", "senha"=>"lsa", "usuario"=>{"nome"=>"ligia", "email"=>"ligiaasda", "senha"=>"lsa"}}
+  [1m[36mUsuario Load (1.0ms)[0m  [1m[34mSELECT  "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'LIGIAASDA') ORDER BY "tb_usuarios"."id" ASC LIMIT ?[0m  [["LIMIT", 1]]
+No template found for UsuarioController#cadastrar, rendering head :no_content
+Completed 204 No Content in 1866ms (ActiveRecord: 1.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 09:56:24 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"ligia", "email"=>"ligiaasda", "senha"=>"lsa", "usuario"=>{"nome"=>"ligia", "email"=>"ligiaasda", "senha"=>"lsa"}}
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT  "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'LIGIAASDA') ORDER BY "tb_usuarios"."id" ASC LIMIT ?[0m  [["LIMIT", 1]]
+No template found for UsuarioController#cadastrar, rendering head :no_content
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 09:56:26 -0300
+Completed 204 No Content in 2079ms (ActiveRecord: 0.0ms)
+
+
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"ligia", "email"=>"ligiaasda", "senha"=>"lsa", "usuario"=>{"nome"=>"ligia", "email"=>"ligiaasda", "senha"=>"lsa"}}
+  [1m[36mUsuario Load (1.0ms)[0m  [1m[34mSELECT  "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'LIGIAASDA') ORDER BY "tb_usuarios"."id" ASC LIMIT ?[0m  [["LIMIT", 1]]
+No template found for UsuarioController#cadastrar, rendering head :no_content
+Completed 204 No Content in 1950ms (ActiveRecord: 1.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 09:56:33 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"ligia", "email"=>"ligia", "senha"=>"li", "usuario"=>{"nome"=>"ligia", "email"=>"ligia", "senha"=>"li"}}
+  [1m[36mUsuario Load (1.0ms)[0m  [1m[34mSELECT  "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'LIGIA') ORDER BY "tb_usuarios"."id" ASC LIMIT ?[0m  [["LIMIT", 1]]
+No template found for UsuarioController#cadastrar, rendering head :no_content
+Completed 204 No Content in 1964ms (ActiveRecord: 1.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 09:56:57 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"ligia", "email"=>"ligia", "senha"=>"li", "usuario"=>{"nome"=>"ligia", "email"=>"ligia", "senha"=>"li"}}
+  [1m[36mUsuario Load (1.0ms)[0m  [1m[34mSELECT  "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'LIGIA') LIMIT ?[0m  [["LIMIT", 11]]
+No template found for UsuarioController#cadastrar, rendering head :no_content
+Completed 204 No Content in 1794ms (ActiveRecord: 2.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 10:17:55 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"a", "email"=>"a", "senha"=>"a", "usuario"=>{"nome"=>"a", "email"=>"a", "senha"=>"a"}}
+  [1m[36mUsuario Load (1.1ms)[0m  [1m[34mSELECT  "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'A') LIMIT ?[0m  [["LIMIT", 11]]
+No template found for UsuarioController#cadastrar, rendering head :no_content
+Completed 204 No Content in 1652ms (ActiveRecord: 2.1ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 10:18:22 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"a", "email"=>"a", "senha"=>"a", "usuario"=>{"nome"=>"a", "email"=>"a", "senha"=>"a"}}
+  [1m[36mUsuario Load (1.0ms)[0m  [1m[34mSELECT  "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'A') LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mUsuario Load (1.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'A')[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (4.0ms)[0m  [1m[32mINSERT INTO "tb_usuarios" ("nome", "email", "senha") VALUES (?, ?, ?)[0m  [["nome", "a"], ["email", "A"], ["senha", "a"]]
+  [1m[35m (6.0ms)[0m  [1m[36mcommit transaction[0m
+No template found for UsuarioController#cadastrar, rendering head :no_content
+Completed 204 No Content in 1777ms (ActiveRecord: 13.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 10:18:27 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"a", "email"=>"a", "senha"=>"a", "usuario"=>{"nome"=>"a", "email"=>"a", "senha"=>"a"}}
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT  "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'A') LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'A')[0m
+No template found for UsuarioController#cadastrar, rendering head :no_content
+Completed 204 No Content in 1659ms (ActiveRecord: 0.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 10:30:09 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"a", "email"=>"a", "senha"=>"a", "usuario"=>{"nome"=>"a", "email"=>"a", "senha"=>"a"}}
+  [1m[36mUsuario Load (1.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'A')[0m
+No template found for UsuarioController#cadastrar, rendering head :no_content
+Completed 204 No Content in 1702ms (ActiveRecord: 4.1ms)
+
+
+Started GET "/js/app.6cc01ba5.js.map" for ::1 at 2019-09-27 10:30:12 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/js/app.6cc01ba5.js.map"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+webpacker (4.0.7) lib/webpacker/dev_server_proxy.rb:29:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 10:30:26 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"a", "email"=>"a", "senha"=>"a", "usuario"=>{"nome"=>"a", "email"=>"a", "senha"=>"a"}}
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'A')[0m
+No template found for UsuarioController#cadastrar, rendering head :no_content
+Completed 204 No Content in 1674ms (ActiveRecord: 0.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 10:31:32 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"aa", "email"=>"ab", "senha"=>"a", "usuario"=>{"nome"=>"aa", "email"=>"ab", "senha"=>"a"}}
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'AB')[0m
+  [1m[35m (1.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (7.0ms)[0m  [1m[32mINSERT INTO "tb_usuarios" ("nome", "email", "senha") VALUES (?, ?, ?)[0m  [["nome", "aa"], ["email", "AB"], ["senha", "a"]]
+  [1m[35m (10.0ms)[0m  [1m[36mcommit transaction[0m
+No template found for UsuarioController#cadastrar, rendering head :no_content
+Completed 204 No Content in 1862ms (ActiveRecord: 18.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 10:35:46 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"a", "email"=>"a", "senha"=>"a", "usuario"=>{"nome"=>"a", "email"=>"a", "senha"=>"a"}}
+  [1m[36mUsuario Load (2.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'A')[0m
+No template found for UsuarioController#cadastrar, rendering head :no_content
+Completed 204 No Content in 1707ms (ActiveRecord: 2.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 10:38:33 -0300
+  
+ArgumentError ('' is not a supported controller name. This can lead to potential routing problems. See http://guides.rubyonrails.org/routing.html#specifying-a-controller-to-use):
+  
+config/routes.rb:2:in `block in <top (required)>'
+config/routes.rb:1:in `<top (required)>'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 10:38:41 -0300
+  
+ActionController::RoutingError (No route matches [POST] "/usuario/cadastrar"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+webpacker (4.0.7) lib/webpacker/dev_server_proxy.rb:29:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 10:39:54 -0300
+  
+AbstractController::ActionNotFound (The action 'cadastro' could not be found for UsuarioController):
+  
+actionpack (5.1.7) lib/abstract_controller/base.rb:119:in `process'
+actionview (5.1.7) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.7) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.7) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.7) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.7) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.7) lib/action_dispatch/journey/router.rb:50:in `block in serve'
+actionpack (5.1.7) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.7) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.7) lib/action_dispatch/routing/route_set.rb:844:in `call'
+rack (2.0.7) lib/rack/etag.rb:25:in `call'
+rack (2.0.7) lib/rack/conditional_get.rb:38:in `call'
+rack (2.0.7) lib/rack/head.rb:12:in `call'
+rack (2.0.7) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.7) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.7) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.7) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.7) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+webpacker (4.0.7) lib/webpacker/dev_server_proxy.rb:29:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 10:40:24 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"a", "email"=>"a", "senha"=>"a", "usuario"=>{"nome"=>"a", "email"=>"a", "senha"=>"a"}}
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'A')[0m
+No template found for UsuarioController#cadastrar, rendering head :no_content
+Completed 204 No Content in 1926ms (ActiveRecord: 6.1ms)
+
+
+Started GET "/usuario/cadastrar" for ::1 at 2019-09-27 10:44:14 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/usuario/cadastrar"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+webpacker (4.0.7) lib/webpacker/dev_server_proxy.rb:29:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 10:46:00 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"a", "email"=>"a", "senha"=>"a", "usuario"=>{"nome"=>"a", "email"=>"a", "senha"=>"a"}}
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'A')[0m
+No template found for UsuarioController#cadastrar, rendering head :no_content
+Completed 204 No Content in 1822ms (ActiveRecord: 5.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 10:46:19 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"a", "email"=>"a", "senha"=>"a", "usuario"=>{"nome"=>"a", "email"=>"a", "senha"=>"a"}}
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'A')[0m
+No template found for UsuarioController#cadastrar, rendering head :no_content
+Completed 204 No Content in 1669ms (ActiveRecord: 0.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 10:50:26 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"a", "email"=>"a", "senha"=>"a", "usuario"=>{"nome"=>"a", "email"=>"a", "senha"=>"a"}}
+  [1m[36mUsuario Load (1.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'A')[0m
+No template found for UsuarioController#cadastrar, rendering head :no_content
+Completed 204 No Content in 1977ms (ActiveRecord: 7.0ms)
+
+
+Started GET "/usuario/cadastrar" for ::1 at 2019-09-27 10:51:55 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/usuario/cadastrar"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+webpacker (4.0.7) lib/webpacker/dev_server_proxy.rb:29:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 10:54:53 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"b", "email"=>"b", "senha"=>"b", "usuario"=>{"nome"=>"b", "email"=>"b", "senha"=>"b"}}
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'B')[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (2.0ms)[0m  [1m[32mINSERT INTO "tb_usuarios" ("nome", "email", "senha") VALUES (?, ?, ?)[0m  [["nome", "b"], ["email", "B"], ["senha", "b"]]
+  [1m[35m (7.0ms)[0m  [1m[36mcommit transaction[0m
+No template found for UsuarioController#cadastrar, rendering head :no_content
+Completed 204 No Content in 1800ms (ActiveRecord: 14.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 10:57:11 -0300
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 10:57:21 -0300
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 10:57:21 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"b", "email"=>"b", "senha"=>"b", "usuario"=>{"nome"=>"b", "email"=>"b", "senha"=>"b"}}
+Redirected to http://localhost:3000#/usuario/cadastrar
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'B')[0m
+Completed 302 Found in 14ms (ActiveRecord: 1.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 11:11:15 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"c", "email"=>"c", "senha"=>"c", "usuario"=>{"nome"=>"c", "email"=>"c", "senha"=>"c"}}
+Redirected to http://localhost:3000#/cadastrar
+  [1m[36mUsuario Load (1.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'C')[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (2.0ms)[0m  [1m[32mINSERT INTO "tb_usuarios" ("nome", "email", "senha") VALUES (?, ?, ?)[0m  [["nome", "c"], ["email", "C"], ["senha", "c"]]
+  [1m[35m (6.0ms)[0m  [1m[36mcommit transaction[0m
+Completed 302 Found in 64ms (ActiveRecord: 14.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 11:17:02 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"cd", "email"=>"cd", "senha"=>"cd", "usuario"=>{"nome"=>"cd", "email"=>"cd", "senha"=>"cd"}}
+Redirected to http://localhost:3000#/cadastrar
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'CD')[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (4.0ms)[0m  [1m[32mINSERT INTO "tb_usuarios" ("nome", "email", "senha") VALUES (?, ?, ?)[0m  [["nome", "cd"], ["email", "CD"], ["senha", "cd"]]
+  [1m[35m (7.0ms)[0m  [1m[36mcommit transaction[0m
+Completed 302 Found in 31ms (ActiveRecord: 11.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 11:17:29 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"cd", "email"=>"cd", "senha"=>"cd", "usuario"=>{"nome"=>"cd", "email"=>"cd", "senha"=>"cd"}}
+Redirected to http://localhost:3000#/cadastrar
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'CD')[0m
+Completed 302 Found in 11ms (ActiveRecord: 0.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 11:17:33 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"cd", "email"=>"cdc", "senha"=>"cd", "usuario"=>{"nome"=>"cd", "email"=>"cdc", "senha"=>"cd"}}
+Redirected to http://localhost:3000#/cadastrar
+  [1m[36mUsuario Load (1.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'CDC')[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (9.0ms)[0m  [1m[32mINSERT INTO "tb_usuarios" ("nome", "email", "senha") VALUES (?, ?, ?)[0m  [["nome", "cd"], ["email", "CDC"], ["senha", "cd"]]
+  [1m[35m (9.0ms)[0m  [1m[36mcommit transaction[0m
+Completed 302 Found in 34ms (ActiveRecord: 19.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 11:27:36 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"", "email"=>"", "senha"=>"", "usuario"=>{"nome"=>"", "email"=>"", "senha"=>""}}
+Redirected to http://localhost:3000#/cadastrar
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = '')[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (3.0ms)[0m  [1m[32mINSERT INTO "tb_usuarios" ("nome", "email", "senha") VALUES (?, ?, ?)[0m  [["nome", ""], ["email", ""], ["senha", ""]]
+  [1m[35m (6.0ms)[0m  [1m[36mcommit transaction[0m
+Completed 302 Found in 24ms (ActiveRecord: 11.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 11:29:24 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"c", "email"=>"c", "senha"=>"c", "usuario"=>{"nome"=>"c", "email"=>"c", "senha"=>"c"}}
+Redirected to http://localhost:3000#/cadastrar
+  [1m[36mUsuario Load (1.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'C')[0m
+Completed 302 Found in 6ms (ActiveRecord: 1.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 11:32:15 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"e", "email"=>"e", "senha"=>"e", "usuario"=>{"nome"=>"e", "email"=>"e", "senha"=>"e"}}
+Redirected to http://localhost:3000#/cadastrar
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'E')[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (9.0ms)[0m  [1m[32mINSERT INTO "tb_usuarios" ("nome", "email", "senha") VALUES (?, ?, ?)[0m  [["nome", "e"], ["email", "E"], ["senha", "e"]]
+  [1m[35m (7.0ms)[0m  [1m[36mcommit transaction[0m
+Completed 302 Found in 33ms (ActiveRecord: 16.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 12:43:13 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"cd", "email"=>"cd", "senha"=>"cd", "usuario"=>{"nome"=>"cd", "email"=>"cd", "senha"=>"cd"}}
+Redirected to http://localhost:3000#/cadastrar
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'CD')[0m
+Completed 302 Found in 43ms (ActiveRecord: 4.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 12:48:05 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"vvcc", "email"=>"vcvcc", "senha"=>"vc", "usuario"=>{"nome"=>"vvcc", "email"=>"vcvcc", "senha"=>"vc"}}
+Redirected to http://localhost:3000#/cadastrar
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'VCVCC')[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (3.0ms)[0m  [1m[32mINSERT INTO "tb_usuarios" ("nome", "email", "senha") VALUES (?, ?, ?)[0m  [["nome", "vvcc"], ["email", "VCVCC"], ["senha", "vc"]]
+  [1m[35m (7.0ms)[0m  [1m[36mcommit transaction[0m
+Completed 302 Found in 29ms (ActiveRecord: 11.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 12:49:52 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"a", "email"=>"a", "senha"=>"a", "usuario"=>{"nome"=>"a", "email"=>"a", "senha"=>"a"}}
+Redirected to http://localhost:3000#/cadastrar
+  [1m[36mUsuario Load (1.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'A')[0m
+Completed 302 Found in 9ms (ActiveRecord: 3.1ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 12:51:45 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"a", "email"=>"a", "senha"=>"a", "usuario"=>{"nome"=>"a", "email"=>"a", "senha"=>"a"}}
+Redirected to http://localhost:3000#/cadastrar
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'A')[0m
+Completed 302 Found in 46ms (ActiveRecord: 4.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 12:52:02 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"a", "email"=>"a", "senha"=>"a", "usuario"=>{"nome"=>"a", "email"=>"a", "senha"=>"a"}}
+Redirected to http://localhost:3000#/cadastrar
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'A')[0m
+Completed 302 Found in 5ms (ActiveRecord: 1.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 12:52:06 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"a", "email"=>"ab", "senha"=>"a", "usuario"=>{"nome"=>"a", "email"=>"ab", "senha"=>"a"}}
+Redirected to http://localhost:3000#/cadastrar
+  [1m[36mUsuario Load (1.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'AB')[0m
+Completed 302 Found in 7ms (ActiveRecord: 1.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 13:00:09 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"a", "email"=>"abb", "senha"=>"a", "usuario"=>{"nome"=>"a", "email"=>"abb", "senha"=>"a"}}
+Redirected to http://localhost:3000#/cadastrar
+  [1m[36mUsuario Load (1.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'ABB')[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (8.0ms)[0m  [1m[32mINSERT INTO "tb_usuarios" ("nome", "email", "senha") VALUES (?, ?, ?)[0m  [["nome", "a"], ["email", "ABB"], ["senha", "a"]]
+  [1m[35m (8.0ms)[0m  [1m[36mcommit transaction[0m
+Completed 302 Found in 31ms (ActiveRecord: 17.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 13:05:53 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sada", "email"=>"sada", "senha"=>"sada", "usuario"=>{"nome"=>"sada", "email"=>"sada", "senha"=>"sada"}}
+Redirected to http://localhost:3000#/cadastrar
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'SADA')[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (5.0ms)[0m  [1m[32mINSERT INTO "tb_usuarios" ("nome", "email", "senha") VALUES (?, ?, ?)[0m  [["nome", "sada"], ["email", "SADA"], ["senha", "sada"]]
+  [1m[35m (7.0ms)[0m  [1m[36mcommit transaction[0m
+Completed 302 Found in 27ms (ActiveRecord: 12.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 13:06:46 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sada", "email"=>"sada", "senha"=>"sada", "usuario"=>{"nome"=>"sada", "email"=>"sada", "senha"=>"sada"}}
+Redirected to http://localhost:3000#/cadastrar
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'SADA')[0m
+Completed 302 Found in 3ms (ActiveRecord: 0.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 13:06:53 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"sada", "email"=>"sada", "senha"=>"sada", "usuario"=>{"nome"=>"sada", "email"=>"sada", "senha"=>"sada"}}
+Redirected to http://localhost:3000#/cadastrar
+  [1m[36mUsuario Load (1.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'SADA')[0m
+Completed 302 Found in 4ms (ActiveRecord: 1.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 13:08:07 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"c", "email"=>"c", "senha"=>"c", "usuario"=>{"nome"=>"c", "email"=>"c", "senha"=>"c"}}
+Redirected to http://localhost:3000#/cadastrar
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'C')[0m
+Completed 302 Found in 4ms (ActiveRecord: 0.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-27 13:09:16 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"c", "email"=>"c", "senha"=>"c", "usuario"=>{"nome"=>"c", "email"=>"c", "senha"=>"c"}}
+Redirected to http://localhost:3000#/cadastrar
+  [1m[36mUsuario Load (1.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'C')[0m
+Completed 302 Found in 8ms (ActiveRecord: 3.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-28 08:57:40 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"as", "email"=>"as", "senha"=>"as", "usuario"=>{"nome"=>"as", "email"=>"as", "senha"=>"as"}}
+Redirected to http://localhost:3000#/cadastrar
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'AS')[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.0ms)[0m  [1m[32mINSERT INTO "tb_usuarios" ("nome", "email", "senha") VALUES (?, ?, ?)[0m  [["nome", "as"], ["email", "AS"], ["senha", "as"]]
+  [1m[35m (0.0ms)[0m  [1m[36mcommit transaction[0m
+Completed 302 Found in 63ms (ActiveRecord: 0.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-28 08:57:46 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"as", "email"=>"as", "senha"=>"as", "usuario"=>{"nome"=>"as", "email"=>"as", "senha"=>"as"}}
+Redirected to http://localhost:3000#/cadastrar
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'AS')[0m
+Completed 302 Found in 11ms (ActiveRecord: 0.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-28 09:29:45 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"a", "email"=>"a", "senha"=>"a", "usuario"=>{"nome"=>"a", "email"=>"a", "senha"=>"a"}}
+Redirected to http://localhost:3000#/cadastrar
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'A')[0m
+Completed 302 Found in 11ms (ActiveRecord: 0.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-28 09:29:55 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"a", "email"=>"a", "senha"=>"a", "usuario"=>{"nome"=>"a", "email"=>"a", "senha"=>"a"}}
+Redirected to http://localhost:3000#/cadastrar
+  [1m[36mUsuario Load (1.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'A')[0m
+Completed 302 Found in 7ms (ActiveRecord: 1.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-28 09:35:12 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"a", "email"=>"a", "senha"=>"a", "info"=>nil, "usuario"=>{"nome"=>"a", "email"=>"a", "senha"=>"a"}}
+Redirected to http://localhost:3000#/cadastrar
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'A')[0m
+Completed 302 Found in 7ms (ActiveRecord: 0.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-28 09:40:56 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"a", "email"=>"a", "senha"=>"a", "mensagem"=>nil, "usuario"=>{"nome"=>"a", "email"=>"a", "senha"=>"a"}}
+Redirected to http://localhost:3000#/cadastrar
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'A')[0m
+Completed 302 Found in 9ms (ActiveRecord: 1.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-28 09:42:29 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"a", "email"=>"a", "senha"=>"a", "mensagem"=>nil, "usuario"=>{"nome"=>"a", "email"=>"a", "senha"=>"a"}}
+Redirected to http://localhost:3000#/cadastrar
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'A')[0m
+Completed 302 Found in 7ms (ActiveRecord: 0.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-28 09:44:18 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"a", "email"=>"a", "senha"=>"a", "mensagem"=>nil, "usuario"=>{"nome"=>"a", "email"=>"a", "senha"=>"a"}}
+Redirected to http://localhost:3000#/cadastrar
+  [1m[36mUsuario Load (1.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'A')[0m
+Completed 302 Found in 4ms (ActiveRecord: 1.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-28 09:59:03 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"a", "email"=>"a", "senha"=>"a", "mensagem"=>nil, "usuario"=>{"nome"=>"a", "email"=>"a", "senha"=>"a"}}
+Redirected to http://localhost:3000#/cadastrar
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'A')[0m
+Completed 302 Found in 52ms (ActiveRecord: 4.0ms)
+
+
+Started GET "/home" for ::1 at 2019-09-28 11:39:54 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/home"):
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+webpacker (4.0.7) lib/webpacker/dev_server_proxy.rb:29:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-29 07:29:00 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"aaaaa", "email"=>"aaaa", "senha"=>"aaaa", "info"=>nil, "usuario"=>{"nome"=>"aaaaa", "email"=>"aaaa", "senha"=>"aaaa"}}
+Redirected to http://localhost:3000#/cadastrar
+  [1m[36mUsuario Load (1.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'AAAA')[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (3.0ms)[0m  [1m[32mINSERT INTO "tb_usuarios" ("nome", "email", "senha") VALUES (?, ?, ?)[0m  [["nome", "aaaaa"], ["email", "AAAA"], ["senha", "aaaa"]]
+  [1m[35m (6.0ms)[0m  [1m[36mcommit transaction[0m
+Completed 302 Found in 59ms (ActiveRecord: 18.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-29 07:32:57 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"abcd", "email"=>"abcd", "senha"=>"abc", "info"=>nil, "usuario"=>{"nome"=>"abcd", "email"=>"abcd", "senha"=>"abc"}}
+Redirected to http://localhost:3000#/cadastrar
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'ABCD')[0m
+  [1m[35m (1.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (2.0ms)[0m  [1m[32mINSERT INTO "tb_usuarios" ("nome", "email", "senha") VALUES (?, ?, ?)[0m  [["nome", "abcd"], ["email", "ABCD"], ["senha", "abc"]]
+  [1m[35m (6.0ms)[0m  [1m[36mcommit transaction[0m
+Completed 302 Found in 64ms (ActiveRecord: 14.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-29 07:33:04 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"abcd", "email"=>"abcd", "senha"=>"abc", "info"=>nil, "usuario"=>{"nome"=>"abcd", "email"=>"abcd", "senha"=>"abc"}}
+Redirected to http://localhost:3000#/cadastrar
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'ABCD')[0m
+Completed 302 Found in 16ms (ActiveRecord: 1.0ms)
+
+
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-29 07:33:23 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"abcd", "email"=>"abcd", "senha"=>"abc", "info"=>nil, "usuario"=>{"nome"=>"abcd", "email"=>"abcd", "senha"=>"abc"}}
+Redirected to http://localhost:3000#/cadastrar
+  [1m[36mUsuario Load (1.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'ABCD')[0m
+Completed 302 Found in 7ms (ActiveRecord: 1.0ms)
+
+
+Started GET "/js/chunk-vendors.f5d1dfbd.js.map" for ::1 at 2019-09-29 07:34:28 -0300
+Started GET "/js/app.131220bc.js.map" for ::1 at 2019-09-29 07:34:28 -0300
+  
+  
+ActionController::RoutingError (No route matches [GET] "/js/chunk-vendors.f5d1dfbd.js.map"):
+ActionController::RoutingError (No route matches [GET] "/js/app.131220bc.js.map"):
+  
+  
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+webpacker (4.0.7) lib/webpacker/dev_server_proxy.rb:29:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+actionpack (5.1.7) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.7.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.7.0) lib/web_console/middleware.rb:30:in `block in call'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.7.0) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.7) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.7) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.7) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.7) lib/rack/method_override.rb:22:in `call'
+rack (2.0.7) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.7) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.7) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.7) lib/rack/sendfile.rb:111:in `call'
+webpacker (4.0.7) lib/webpacker/dev_server_proxy.rb:29:in `perform_request'
+rack-proxy (0.6.5) lib/rack/proxy.rb:57:in `call'
+railties (5.1.7) lib/rails/engine.rb:522:in `call'
+puma (3.12.1) lib/puma/configuration.rb:227:in `call'
+puma (3.12.1) lib/puma/server.rb:660:in `handle_request'
+puma (3.12.1) lib/puma/server.rb:474:in `process_client'
+puma (3.12.1) lib/puma/server.rb:334:in `block in run'
+puma (3.12.1) lib/puma/thread_pool.rb:135:in `block in spawn_thread'
+Started POST "/usuario/cadastrar" for ::1 at 2019-09-30 09:04:44 -0300
+Processing by UsuarioController#cadastrar as HTML
+  Parameters: {"nome"=>"Teste", "email"=>"teste@teste.com", "senha"=>"teste", "usuario"=>{"nome"=>"Teste", "email"=>"teste@teste.com", "senha"=>"teste"}}
+Redirected to http://localhost:3000#/cadastrar
+  [1m[36mUsuario Load (0.0ms)[0m  [1m[34mSELECT "tb_usuarios".* FROM "tb_usuarios" WHERE (email = 'TESTE@TESTE.COM')[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (2.0ms)[0m  [1m[32mINSERT INTO "tb_usuarios" ("nome", "email", "senha") VALUES (?, ?, ?)[0m  [["nome", "Teste"], ["email", "TESTE@TESTE.COM"], ["senha", "teste"]]
+  [1m[35m (5.9ms)[0m  [1m[36mcommit transaction[0m
+Completed 302 Found in 62ms (ActiveRecord: 19.2ms)
+
+
